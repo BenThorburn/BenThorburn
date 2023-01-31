@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/BenThorburn/count.svg)
+
 ### Languages, frameworks, libaries etc
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)

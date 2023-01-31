@@ -2,6 +2,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/BenThorburn/count.svg)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Languages, frameworks, libaries etc
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
